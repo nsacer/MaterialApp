@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="accentColor" format="reference" />
+    <attr name="iconColor" format="reference" />
+    <attr name="windowBackground" format="reference" />
+    <attr name="stateSelector" format="reference" />
+    <attr name="fabCircleColor" format="reference" />
+    <attr name="listBackground" format="reference" />
+</resources>
